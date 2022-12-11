@@ -14,11 +14,11 @@ const Testimonials = () => {
             The Best Financial Accounting <br /> App Ever!
           </p>
           <p className="text-base text-gray-600">
-            "Arcu At Dictum Sapien, Mollis. Vulputate Sit ld Accumsan, <br />
+            Arcu At Dictum Sapien, Mollis. Vulputate Sit ld Accumsan, <br />
             Ultricies. In Ultrices Malesuada Elit Mauris Etiam Odio. Duis <br />
             Tristique Lacus, Et Blandit Viverra Nisl Velit. Sed Mattis Rhoncus, <br />
             Diam Suspendisse Sit Nunc, Gravida Eu. Lectus Eget Eget Ac Dolor <br />
-            Neque Lorem Sapien, Suspendisse Aliquam."
+            Neque Lorem Sapien, Suspendisse Aliquam.
           </p>
           <p className="text">Rownok Mahbub</p>
           <img className="h-10" src="/assets/person.svg" alt="" />
