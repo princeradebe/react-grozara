@@ -3,7 +3,7 @@ import Link from 'next/link'
 const NavBar = () => {
   return (
     <div className=' '>
-         <div className="container mx-auto py-2 flex justify-between items-center">
+         <div className="container mx-auto py-2 flex flex-col lg:flex-row lg:justify-between items-center">
             <div className="flex items-center gap-10">
             <img src="assets/logo.svg" alt="" />
             <div className="flex items-center gap-7">
