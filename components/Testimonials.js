@@ -2,7 +2,7 @@ import React from "react";
 
 const Testimonials = () => {
   return (
-    <div className="container mx-auto">
+    <div className="container mx-auto text-[#183631]">
       <p className="text-xl font-medium text-center py-2">Testimonials</p>
       <p className="text-center font-bold text-4xl">
         What Our Users <br /> Say About Us?
@@ -13,7 +13,7 @@ const Testimonials = () => {
           <p className="text-3xl font-semibold">
             The Best Financial Accounting <br /> App Ever!
           </p>
-          <p className="text-base text-gray-600">
+          <p className="text-base">
             Arcu At Dictum Sapien, Mollis. Vulputate Sit ld Accumsan, <br />
             Ultricies. In Ultrices Malesuada Elit Mauris Etiam Odio. Duis <br />
             Tristique Lacus, Et Blandit Viverra Nisl Velit. Sed Mattis Rhoncus, <br />

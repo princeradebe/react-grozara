@@ -16,9 +16,9 @@ module.exports = {
       },
     },
     fontFamily: {
-      monoton:["Monoton", "cursive"],
-      satoshi:['Satoshi', 'sans-serif'],
-      clash:['Clash Display', 'sans-serif'],
+      monoton: ["Monoton", "cursive"],
+      satoshi: ['Satoshi', 'sans-serif'],
+      clash: ['Clash Display', 'sans-serif'],
       infinite: ["Outfit", "sans-serif"],
       bebasneo: ['Bebas Neue', 'cursive'],
     },
@@ -66,5 +66,5 @@ module.exports = {
       },
     ],
   },
-  plugins: [ require("daisyui"),require('@tailwindcss/line-clamp')],
+  plugins: [require("daisyui"), require('@tailwindcss/line-clamp')],
 };
