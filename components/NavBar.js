@@ -4,8 +4,8 @@ import Image from 'next/image'
 import Logo from '../public/assets/logo-1.svg'
 const NavBar = () => {
   return (
-    <div className=' '>
-      <div className="container mx-auto py-6 flex flex-col lg:flex-row lg:justify-between items-center">
+    <div className=''>
+      <div className="container flex flex-col items-center py-6 mx-auto lg:flex-row lg:justify-between">
         <Image src={Logo} width={160} alt="" />
         <div className="flex items-center gap-10">
 
