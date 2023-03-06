@@ -5,11 +5,11 @@ import { MdSlowMotionVideo } from "react-icons/md";
 const ChooseUs = () => {
   return (
     <div className="container mx-auto ">
-      <div className="flex flex-col lg:flex-row justify-between items-center">
+      <div className="flex flex-col items-center justify-between lg:flex-row">
 
-        <div className="flex flex-col gap-5 items-start">
+        <div className="flex flex-col items-start gap-5">
           <p className="text-[#183631] font-medium text-lg items-start">Advantage</p>
-          <p className="text-4xl font-bold items-start text-[#183631]">Why Choose Uifry?</p>
+          <p className="text-4xl font-bold items-start text-[#183631]">Why Choose Grozara?</p>
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-3">
               <Image src="/assets/bell.svg" width={50} height={50} alt="" />

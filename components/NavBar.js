@@ -5,10 +5,9 @@ import Logo from '../public/assets/logo-1.svg'
 const NavBar = () => {
   return (
     <div className=''>
-      <div className="container flex flex-col items-center py-6 mx-auto lg:flex-row lg:justify-between">
+      <div className="container flex flex-col py-6 mx-auto md:items-center lg:flex-row lg:justify-between">
         <Image src={Logo} width={160} alt="" />
-        <div className="flex items-center gap-10">
-
+        <div className="items-center hidden gap-10 md:flex">
           <div className="flex items-center gap-7">
             <Link href='/' className='text-[#7EC33F] font-semibold text-lg'>
               Home
@@ -23,7 +22,6 @@ const NavBar = () => {
               Features
             </Link>
           </div>
-
           <button className='btn btn-active rounded-none bg-[#183631] hover:bg-[#FFB902] border-none'>Download Now</button>
         </div>
       </div>

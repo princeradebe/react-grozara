@@ -3,7 +3,7 @@ import { BsArrowRight } from "react-icons/bs";
 import { MdSlowMotionVideo } from "react-icons/md";
 const Hero = () => {
   return (
-    <div className="container mx-auto ">
+    <div className="container mx-auto">
       <div className="flex flex-col items-center justify-between lg:flex-row">
         <div className="flex flex-col gap-5">
           <p className="text-7xl font-bold text-[#183631]">The Smartest, <span className="text-[#FFB902]">Simplest</span> Grocery Shopping List App</p>
