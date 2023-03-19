@@ -12,7 +12,7 @@ const Features = () => {
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-3">
               <img src="/assets/budget.svg" alt="" />
-              <p className="text-2xl font-semibold">Budgeting Intervals</p>
+              <p className="text-2xl font-semibold">Live Prices</p>
             </div>
 
             <p>Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet
@@ -30,7 +30,7 @@ const Features = () => {
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-3">
               <img src="/assets/b3.svg" alt="" />
-              <p className="text-2xl font-semibold">Budgeting Intervals</p>
+              <p className="text-2xl font-semibold">Price Wars</p>
             </div>
 
             <p>Cum Et Convallis Risus Placerat Aliquam, Nunc. Scelerisque Aliquet
