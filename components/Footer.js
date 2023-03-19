@@ -36,7 +36,7 @@ const Footer = () => {
 
                 </div>
                 <div className="flex flex-col items-start gap-4">
-                    <p className='font-semibold text-md md:text-4xl'>News Letter</p>
+                    <p className='font-semibold text-md md:text-4xl'>Newsletter</p>
                     <p className='font-medium md:text-xl text-md'>Stay Up To Date</p>
                     <div className="flex flex-col items-start gap-2">
                         <input type="text" className='px-3 py-3 bg-white' placeholder='Your email' />
